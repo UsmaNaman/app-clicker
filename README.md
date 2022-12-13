@@ -1,4 +1,4 @@
-# cMLr3asK
+# App-Clicker
 
 Quick start:
 
